@@ -30,6 +30,12 @@ A lightweight, feature-rich Android wrapper for the iCloud web interface. This a
 2. Open the project in Android Studio.
 3. Build and Run on your device or emulator.
 
+### OR
+1.Click on the .apk file in this repo.
+2.Download
+3.Open the file
+
+
 ## 🛡️ Disclaimer
 This project is an independent wrapper and is not affiliated with, sponsored by, or endorsed by Apple Inc. "iCloud" is a trademark of Apple Inc.
 
