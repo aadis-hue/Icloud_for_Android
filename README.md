@@ -31,9 +31,9 @@ A lightweight, feature-rich Android wrapper for the iCloud web interface. This a
 3. Build and Run on your device or emulator.
 
 ### OR
-1.Click on the .apk file in this repo.
-2.Download
-3.Open the file
+1. Click on the .apk file in this repo.
+2. Download
+3. Open the file
 
 
 ## 🛡️ Disclaimer
